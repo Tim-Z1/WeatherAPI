@@ -1,3 +1,18 @@
 /* html {
     background-color:aqua;
 } */
+
+.location-display {
+    text-align: center;
+    font-size: 3em;
+}
+.weather-card-container {
+    border: 1px black solid;
+    width: 250px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.card-temperature {
+    font-size: 3em;
+}
